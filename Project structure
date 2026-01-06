@@ -1,0 +1,9 @@
+whatsapp-bot/
+├── auth/
+├── index.js
+├── package.json
+├── config.js
+└── commands/
+    ├── menu.js
+    ├── ping.js
+    └── owner.js
